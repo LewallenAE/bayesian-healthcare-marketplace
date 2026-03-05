@@ -1,9 +1,0 @@
-pyproject.toml
-src/bma_alpha/__init__.py
-src/bma_alpha.egg-info/PKG-INFO
-src/bma_alpha.egg-info/SOURCES.txt
-src/bma_alpha.egg-info/dependency_links.txt
-src/bma_alpha.egg-info/requires.txt
-src/bma_alpha.egg-info/top_level.txt
-src/bma_alpha/core/__init__.py
-src/bma_alpha/core/money.py
